@@ -1,0 +1,26 @@
+Splash Screen
+#293241 Background
+Font Arial Black, Arial Bold
+
+Landing Page 1, 2, 3
+#ffffff Background
+#3f3d52 Font Title, Icon TopBar
+#8282a8 Font Content
+Font Arial Black, Arial Regular
+
+Tombol Skip
+#000000 Font, Button
+
+Kuesioner
+#ffffff Background
+#8282a8 Ketika di klik pilihan, Button Selesai
+#59578a Lingkaran pilihan
+#000000 Soal, Jawaban, Title
+
+Tidak ada gejala
+#8282a8 Background, Font Tombol Selesai 
+#ffffff Font, Background Tombol Selesai
+
+Ada gejala
+#b48403 Background, Font Tombol Selesai 
+#ffffff Font, Background Tombol Selesai
